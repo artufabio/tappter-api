@@ -82,7 +82,7 @@
 						<enabled>true</enabled>
 					</layers>
 					<image>
-						<name>docker.io/artufabio/fabio-api:v2</name>
+						<name>docker.io/artufabio/fabio-api:v3</name>
 					</image>
 				</configuration>
 			</plugin>
