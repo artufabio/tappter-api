@@ -20,7 +20,7 @@ This credentials have to be inserted in the Auth section(Basic Auth) when sendin
 	GET - http://localhost:8080/api/v1/users/nameandage/?name=maria&age=21<br />
 7. The endpoint http://localhost:8080/api/v1/users/nameandage/?name=maria&age=21 must contain both the name and the age parameters. The name can be partial as the point will filter all the name as requested.
 8. Test coverage is around 70%
-9. Docker image for this application is present at this link on DockerHub<br />
+9. Docker image for this application is present at this link on DockerHub (image built using Buildpacks)<br />
 https://hub.docker.com/repository/docker/artufabio/fabio-api<br />
 Pull command for Docker<br />
-$ docker pull artufabio/fabio-api:v1
+$ docker pull artufabio/fabio-api:v2
