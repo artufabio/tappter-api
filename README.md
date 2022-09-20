@@ -23,4 +23,4 @@ This credentials have to be inserted in the Auth section(Basic Auth) when sendin
 9. Docker image for this application is present at this link on DockerHub (image built using Buildpacks)<br />
 https://hub.docker.com/repository/docker/artufabio/fabio-api<br />
 Pull command for Docker<br />
-$ docker pull artufabio/fabio-api:v2
+$ docker pull artufabio/fabio-api:v3
